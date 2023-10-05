@@ -1,0 +1,116 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name" :"Mohit kumar",
+            "email":"mk@gmail.com",
+            "address":"123 Street USA",
+            "status" : "Active",
+            "profile":"Developer"
+        },
+        {
+            "id":2,
+            "name" :"Sanket kumar",
+            "email":"sk@gmail.com",
+            "status" : "Active",
+            "address":"222 Street UK",
+            "profile":"Junior Dev"
+        },
+        {
+            "id":3,
+            "name" :"Jatin Jain",
+            "email":"jj@gmail.com",
+            "status" : "Inactive",
+            "address":"Chennai India",
+            "profile":"React Dev"
+        },
+        {
+            "id":4,
+            "name" :"Govind Kumar",
+            "email":"gk@gmail.com",
+            "status" : "Active",
+            "address":"Patna Bihar",
+            "profile":"Node Dev"
+        },
+        {
+            "id":5,
+            "name" :"Abishek Mishra",
+            "email":"am@gmail.com",
+            "status" : "On Hold",
+            "address":"Delhi",
+            "profile":"System Dev"
+        },
+        {
+            "id":6,
+            "name" :"Yaman Goel",
+            "email":"yg@gmail.com",
+            "status" : "Inactive",
+            "address":"Jaipur India",
+            "profile":"Python Dev"
+        },
+        {
+            "id":7,
+            "name" :"Abhilash dutta ",
+            "email":"ad@gmail.com",
+            "status" : "Active",
+            "address":"Assam",
+            "profile":"Java Dev"
+        },
+        {
+            "id":8,
+            "name" :"Niraj Yadav",
+            "email":"ny@gmail.com",
+            "status" : "Active",
+            "address":"Lucknow",
+            "profile":"AI Engineer"
+        },
+        {
+            "id":9,
+            "name" :"Sobhik Sawdagar",
+            "email":"ss@gmail.com",
+            "status" : "On Hold",
+            "address":"Pune India",
+            "profile":"Admin Panel"
+        },
+        {
+            "id":10,
+            "name" :"Kishan Raj",
+            "email":"kr@gmail.com",
+            "status" : "Active",
+            "address":"Ranchi",
+            "profile":"Senior Developer"
+        },
+        {
+            "id":11,
+            "name" :"Ashish Kumar",
+            "email":"ak@gmail.com",
+            "status" : "Inactive",
+            "address":"Chattisgarh",
+            "profile":"Junior Developer"
+        },
+        {
+            "id":12,
+            "name" :"Ayush Sinha",
+            "email":"as@gmail.com",
+            "status" : "Active",
+            "address":"Varanasi",
+            "profile":"Mern Stack"
+        },
+        {
+            "id":13,
+            "name" :"Aman Kumar",
+            "email":"ak@gmail.com",
+            "status" : "Active",
+            "address":"Deoghar",
+            "profile":"Springboot"
+        },
+        {
+            "id":14,
+            "name" :"Rajat Singh",
+            "email":"rs@gmail.com",
+            "status" : "On Hold",
+            "address":"Bihar ",
+            "profile":"Database Engineer"
+        }
+    ]
+}
