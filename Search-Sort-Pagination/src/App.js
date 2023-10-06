@@ -5,6 +5,9 @@ import { MDBBadge, MDBBtn, MDBTable, MDBTableHead, MDBTableBody,
 import axios from "axios"
 import './App.css';
 
+
+// npm run server -> at cmd to start json server
+
 function App() {
 
   const [data, setData] = useState([]);
